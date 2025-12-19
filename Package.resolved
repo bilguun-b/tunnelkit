@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftybeaver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SwiftyBeaver/SwiftyBeaver",
+      "state" : {
+        "revision" : "8cba041db09596183331d123f337d0eb2e6e8e91",
+        "version" : "2.1.1"
+      }
+    },
+    {
+      "identity" : "wireguard-apple",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/bilguun-b/wireguard-apple",
+      "state" : {
+        "branch" : "main",
+        "revision" : "da94739d43303f4f9345fd5038984b3ba6685514"
+      }
+    }
+  ],
+  "version" : 2
+}
